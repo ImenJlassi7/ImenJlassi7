@@ -21,4 +21,4 @@
 </div>
 
 ### Snake Animation
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ImenJlassi7/ImenJlassi7/output/snake.svg" alt="Snake animation" />
